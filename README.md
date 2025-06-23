@@ -4,3 +4,6 @@ My goal is to strengthen my background in programming, data analysis, and comput
 Through a series of small projects, code exercises, and learning notes, I aim to track my progress and stay accountable,build a personal portfolio that reflects growth and dedication develop the technical foundation needed for graduate-level study
 While I’m still learning and far from an expert, this repository is meant to serve as an open notebook—a space to demonstrate consistency, curiosity, and commitment over time.
 
+
+## Contenido
+- Learning Python
